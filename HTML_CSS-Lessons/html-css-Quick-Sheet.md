@@ -13,3 +13,5 @@ Transform: scale() | skewX|Y(deg)
 CSS variable: --varName: value => var(--varName,*fallback-value)
 
 Media Query : @media()
+
+box-shadow: oofset-x, y, blur-radius, spread-radius
